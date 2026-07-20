@@ -54,5 +54,6 @@ End-to-end customer churn prediction system, built to run the same code from a l
 
 ## Contact
 
-- 📫 Email: geopank55@email.here
-- 💬 Telegram: @geopank55
+- 📫 Email: [geopank55@gmail.com](mailto:geopank55@gmail.com)
+- 💬 Telegram: [@geopank55](https://t.me/geopank55)
+- 💼 LinkedIn: [georgii-pankratov](https://www.linkedin.com/in/georgii-pankratov/)
