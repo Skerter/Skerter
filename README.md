@@ -1,4 +1,4 @@
-### Python backend developer
+### Python developer
 
 I build production-grade backend services and ML pipelines: Django and FastAPI applications, background task processing, CRM integrations, containerized deployments with full CI/CD. I care about clean architecture, tests, and systems that survive real-world failures.
 
