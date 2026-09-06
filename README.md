@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Skerter — Python Backend Developer">
-</p>
-
 ### Backend
 
 `Python` `FastAPI` `Django` `Flask` `asyncio` `SQLAlchemy` `REST API`
