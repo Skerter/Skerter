@@ -1,59 +1,53 @@
-### Python developer
+<div align="center">
 
-I build production-grade backend services and ML pipelines: Django and FastAPI applications, background task processing, CRM integrations, containerized deployments with full CI/CD. I care about clean architecture, tests, and systems that survive real-world failures.
+# Skerter
 
----
+### Python Backend Developer
 
-## Featured projects
+Backend systems · APIs · Databases · Infrastructure
 
-### 🏭 [DemoPlast — production Django app](https://github.com/Skerter/django-plastic-landing)
+<br>
 
-Public showcase of a commercial freelance project for a plastic products manufacturer.
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-111111?style=flat-square\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square\&logo=flask\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=flat-square\&logo=kubernetes\&logoColor=white)
 
-- **Django 5 + HTMX** frontend, server-rendered, no SPA overhead
-- **amoCRM integration** with OAuth2 refresh-token rotation
-- Background jobs with **django-q2**, three notification channels
-- **36 tests**, Sentry with PII scrubbing, CD pipeline: GitHub Actions → GHCR → SSH → docker compose
-
-### 📊 [distributed-churn-prediction — ML pipeline with MLOps](https://github.com/Skerter/distributed-churn-prediction)
-
-End-to-end customer churn prediction system, built to run the same code from a laptop to a cluster.
-
-- **Three execution modes**: pandas → Dask local → Dask on Kubernetes
-- **Four interfaces**: CLI, FastAPI service, web dashboard, Telegram bot (aiogram 3, FSM)
-- Clean Architecture with a custom DI container; Template Method in the pipeline core
-- Crash recovery: interrupted runs resume after OOM/SIGKILL
-- **MLflow** experiment tracking, K8s manifests via kustomize + Dask Operator
-- ~6,100 lines, 150 commits, CI/CD with automated tests and image builds
+</div>
 
 ---
 
-## Tech stack
+<div align="center">
 
-**Core:** Python 3.11+, FastAPI, Django 5, aiogram 3, Pydantic, django-q2
+### Backend
 
-**Data & ML:** pandas, Dask, XGBoost, scikit-learn, MLflow, PyArrow/Parquet
+`Python` · `FastAPI` · `Django` · `Flask` · `asyncio` · `SQLAlchemy` · `REST API`
 
-**Database:** PostgreSQL
+### Databases
 
-**Infrastructure:** Docker/Compose, Kubernetes (kustomize), GitHub Actions, GHCR, Traefik, nginx, Linux
+`PostgreSQL` · `MySQL` · `SQLite` · `MongoDB` · `ClickHouse` · `Redis`
 
-**Quality:** pytest, factory_boy, ruff, Sentry
+### Infrastructure
 
----
+`Docker` · `Kubernetes` · `Helm` · `Linux` · `Nginx` · `Caddy` · `Traefik` · `GitHub Actions`
 
-## How I work
+### Testing & Tools
 
-- **Production over tutorials** — every project is deployed, monitored, and survives restarts
-- **Tests are not optional** — if it's not tested, it's broken; I just don't know it yet
-- **Architecture pays off** — clean boundaries make month-six changes as cheap as day-one changes
-- **Automate the boring parts** — CI/CD from the first commit, deploys are a non-event
-- **Documentation is part of the code** — READMEs, docstrings, and deploy notes are written while I build, not after
+`pytest` · `pytest-asyncio` · `Factory Boy` · `Testcontainers` · `Alembic`
 
----
+### ML
 
-## Contact
+`pandas` · `Dask` · `scikit-learn` · `XGBoost` · `PyTorch` · `TensorFlow` · `MLflow`
 
-- 📫 Email: [geopank55@gmail.com](mailto:geopank55@gmail.com)
-- 💬 Telegram: [@geopank55](https://t.me/geopank55)
-- 💼 LinkedIn: [georgii-pankratov](https://www.linkedin.com/in/georgii-pankratov/)
+<br>
+
+**Python backend · distributed systems · data-intensive applications**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Skerter-111111?style=flat-square\&logo=github)](https://github.com/Skerter)
+
+</div>
