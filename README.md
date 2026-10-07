@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0D1117,65:161B22,100:1F2A3A&text=Skerter&fontColor=F0F6FC&fontSize=52&animation=fadeIn&section=header"/>
+<img width="100%" src="./assets/header.svg" alt="Skerter"/>
 
 <br>
 
@@ -62,6 +62,6 @@
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
+<img width="100%" src="./assets/footer.svg" alt=""/>
 
 </div>
